@@ -1,6 +1,5 @@
 # pomogu - прототип платформы по оказанию онлайн-терапии
 
-![](https://imgur.com/1FXyNI7.jpg)
 ![](https://i.imgur.com/tRztvPu.jpg)
 ![](https://i.imgur.com/pmfCvLd.jpg)
 ![](https://i.imgur.com/3ov8Kzm.jpg)
